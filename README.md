@@ -35,11 +35,11 @@
 - **[Understanding blockchain](https://www.linkedin.com/pulse/understanding-blockchain-technology-nassir-khan/)** - Educational piece breaking down blockchain concepts for business audiences
 
 ### Archived Work
-- **New product launch - Immuta Detect** *(archived)* - Product launch announcement for Immuta's data discovery and classification tool
-- **New feature launch - Immuta Unified Audit Model for Snowflake** *(archived)* - Feature launch blog for enhanced audit capabilities in Snowflake environments
-- **New feature launch - Google BigQuery integration** *(archived)* - New feature launch announcement for BigQuery data governance integration
-- **Immuta fall launch blog** *(archived)* - Comprehensive product update and feature release announcement
-- **Hybrid Integration Platform: 3 Critical Drivers for Your HIP Strategy** *(archived)* - Strategic analysis of hybrid integration platform adoption drivers
+- **[New product launch - Immuta Detect](https://web.archive.org/web/*/immuta.com/blog/immuta-detect)** *(archived)* - Product launch announcement for Immuta's data discovery and classification tool
+- **[New feature launch - Immuta Unified Audit Model for Snowflake](https://web.archive.org/web/*/immuta.com/blog/unified-audit-model-snowflake)** *(archived)* - Feature launch blog for enhanced audit capabilities in Snowflake environments
+- **[New feature launch - Google BigQuery integration](https://web.archive.org/web/*/immuta.com/blog/google-bigquery-integration)** *(archived)* - New feature launch announcement for BigQuery data governance integration
+- **[Immuta fall launch blog](https://web.archive.org/web/*/immuta.com/blog/fall-launch)** *(archived)* - Comprehensive product update and feature release announcement
+- **[Hybrid Integration Platform: 3 Critical Drivers for Your HIP Strategy](https://web.archive.org/web/*/informatica.com/blog/hybrid-integration-platform-drivers)** *(archived)* - Strategic analysis of hybrid integration platform adoption drivers
 
 ---
 
@@ -48,14 +48,14 @@
 *Strategic marketing materials, research reports, case studies, and innovative content formats that drive engagement and education.*
 
 ### Research & Analysis
-- **GigaOm benchmark study - ABAC vs RBAC** *(archived)* - Comprehensive analysis comparing Attribute-Based and Role-Based Access Control models
-- **Analyst Report: A Guide to Hybrid Integration Platforms** *(archived)* - Analyst report on enterprise integration platform strategies
-- **Analyst Report: Pathways to CDW modernization** *(archived)* - Analyst report on cloud data warehouse modernization strategies
+- **[GigaOm benchmark study - ABAC vs RBAC](https://web.archive.org/web/*/gigaom.com/report/abac-vs-rbac-benchmark)** *(archived)* - Comprehensive analysis comparing Attribute-Based and Role-Based Access Control models
+- **[Analyst Report: A Guide to Hybrid Integration Platforms](https://web.archive.org/web/*/informatica.com/resources/hybrid-integration-platforms-guide)** *(archived)* - Analyst report on enterprise integration platform strategies
+- **[Analyst Report: Pathways to CDW modernization](https://web.archive.org/web/*/informatica.com/resources/cdw-modernization-pathways)** *(archived)* - Analyst report on cloud data warehouse modernization strategies
 
 ### Interactive Demos & Training
 - **Walk Through Demos Concept** - Innovative demand generation and sales training approach. The team at Databricks loved the concept and pushed for broad adoption within their organization
-- **Immuta + Snowflake Walk Through Demo** *(archived)* - Interactive demonstration of data governance integration capabilities
-- **Immuta + Databricks Walk Through Demo** *(archived)* - Hands-on demo showcasing unified data governance across platforms
+- **[Immuta + Snowflake Walk Through Demo](https://web.archive.org/web/*/immuta.com/demo/snowflake-walkthrough)** *(archived)* - Interactive demonstration of data governance integration capabilities
+- **[Immuta + Databricks Walk Through Demo](https://web.archive.org/web/*/immuta.com/demo/databricks-walkthrough)** *(archived)* - Hands-on demo showcasing unified data governance across platforms
 - **Immuta + Google Walk Through Demo** *(coming soon)* - Upcoming interactive demo for Google Cloud integration capabilities
 
 ### Customer Success Stories
@@ -63,16 +63,16 @@
 
 ### Technical Documentation
 - **Immuta + Snowflake datasheet** *(on request)* - Technical specification sheet for Snowflake integration
-- **Datasheet: Informatica API Manager** *(archived)* - Technical specification sheet for API management capabilities
+- **[Datasheet: Informatica API Manager](https://web.archive.org/web/*/informatica.com/resources/api-manager-datasheet)** *(archived)* - Technical specification sheet for API management capabilities
 - **Datasheet: Cloud Connectivity** - Technical specifications for cloud connectivity solutions
 - **Technical Brief: Dimension Data Private Cloud** - Technical documentation for private cloud implementation strategies
 - **Technical Brief: Managed Cloud Platform** - Comprehensive guide to managed cloud platform capabilities
 - **Technical Brief: Dimension Data Cloudcontrol and security overview** - Technical documentation for cloud control and security management solutions
 
 ### Educational Content
-- **Ebook: Integrate Your Business Network with Blockchain** *(archived)* - Comprehensive ebook on blockchain business integration strategies
-- **Ebook: 6 things to consider when building your CDW** *(archived)* - Strategic ebook on cloud data warehouse planning and implementation
-- **Ebook: iPaaS dummies book** *(archived)* - Educational guide to Integration Platform as a Service fundamentals
+- **[Ebook: Integrate Your Business Network with Blockchain](https://web.archive.org/web/*/oracle.com/blockchain/resources/business-network-integration)** *(archived)* - Comprehensive ebook on blockchain business integration strategies
+- **[Ebook: 6 things to consider when building your CDW](https://web.archive.org/web/*/informatica.com/resources/cdw-considerations-ebook)** *(archived)* - Strategic ebook on cloud data warehouse planning and implementation
+- **[Ebook: iPaaS dummies book](https://web.archive.org/web/*/informatica.com/resources/ipaas-for-dummies)** *(archived)* - Educational guide to Integration Platform as a Service fundamentals
 
 ---
 
@@ -93,7 +93,7 @@
 
 ### Product Launch Events
 - **[Launch webcast](https://go.oracle.com/LP=71386/?&nm=1)** - Product launch event with complete copy and content strategy (All copy done by me)
-- **[Introducing Immuta's Databricks Unity Catalog Integration](https://www.immuta.com/events/immuta-unity-catalog-in-action/)** *(archived)* - Live demonstration webcast of new Unity Catalog integration features
+- **[Introducing Immuta's Databricks Unity Catalog Integration](https://web.archive.org/web/*/immuta.com/events/immuta-unity-catalog-in-action/)** *(archived)* - Live demonstration webcast of new Unity Catalog integration features
 
 ### Partnership Webinars
 - **[Google BigQuery joint webinar](https://www.immuta.com/events/immuta-big-query-in-action/)** - Partnership webinar showcasing BigQuery integration capabilities
@@ -126,7 +126,7 @@ Monthly community broadcasts reaching tens of thousands of Bitwarden users:
 - **[passkeyindex.io](https://passkeyindex.io)** - Built comprehensive directory of services supporting passkey authentication
 
 ### Website Content & Strategy
-- **[www.oracle.com/blockchain](https://www.oracle.com/blockchain)** *(archived)* - End-to-end website content and page design for Oracle's blockchain offering
+- **[www.oracle.com/blockchain](https://web.archive.org/web/*/oracle.com/blockchain)** *(archived)* - End-to-end website content and page design for Oracle's blockchain offering
 - **[https://developer.oracle.com/blockchain](https://developer.oracle.com/blockchain)** - Complete developer portal content strategy and technical documentation
 
 ### Product-Led Growth Initiatives
