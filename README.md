@@ -57,6 +57,7 @@ In some cases, articles have been altered, removed, or had author credits change
 - [Immuta Data Marketplace Product Tour](https://www.immuta.com/data-marketplace-product-tour/)
 - Using passkeys with Bitwarden - High level overview video (https://www.youtube.com/watch?v=3wh52KY89bU)
 - Using the Bitwarden SSH agent integration (https://vimeo.com/1050858399?autoplay=1&muted=1&stream_id=Y2xpcHN8MTE1OTEyNDEzfGlkOmRlc2N8W10%3D)
+- Bitwarden Passwordless.dev Product Demo (https://www.youtube.com/watch?v=JSHwYiivcSs)
 
 ---
 
