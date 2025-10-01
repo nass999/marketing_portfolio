@@ -55,6 +55,7 @@ In some cases, articles have been altered, removed, or had author credits change
 - [Food safety with Oracle Blockchain](https://www.youtube.com/watch?v=sZ7Rqmy3c3w)
 - [Immuta + Snowflake Walkthrough Demo (archived)](https://web.archive.org/web/20220506115158/https://www.immuta.com/campaigns/walkthrough-demo-dbx/)
 - [Immuta Data Marketplace Product Tour](https://www.immuta.com/data-marketplace-product-tour/)
+- Using passkeys with Bitwarden - High level overview video (https://www.youtube.com/watch?v=3wh52KY89bU)
 
 ---
 
