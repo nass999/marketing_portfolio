@@ -9,6 +9,7 @@ In some cases, articles have been altered, removed, or had author credits change
 - [Introducing passkeyindex.io](http://passkeyindex.io)
 - passwordless.dev guide (https://docs.passwordless.dev/guide/)
 - Bitwarden secrets Manager Kubernetes Operator (https://bitwarden.com/blog/kubernetes-integration-bitwarden-secrets-manager/)
+- Bitwarden integration for Microsoft Sentinel SIEM (https://bitwarden.com/resources/monitor-bitwarden-events-using-microsoft-sentinel/)
 - [Bitwarden Partner success story – Omega Systems](https://bitwarden.com/resources/omega-systems-enhances-enterprise-security-and-user-experience/)
 - [Bitwarden releases native mobile apps](https://bitwarden.com/blog/native-mobile-apps/)
 - [Simplify secure access and Git workflows with the Bitwarden SSH Agent](https://bitwarden.com/blog/ssh-agent/)
