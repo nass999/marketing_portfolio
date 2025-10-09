@@ -7,6 +7,7 @@ In some cases, articles have been altered, removed, or had author credits change
 ## 📝 Articles & Blogs
 
 - [Introducing passkeyindex.io](https://bitwarden.com/blog/discover-passkeyindex-io-your-community-hub-for-passkeys/)
+- Launched the Bitwarden developer page (https://bitwarden.com/developers/)
 - passwordless.dev guide (https://docs.passwordless.dev/guide/)
 - Bitwarden secrets Manager Kubernetes Operator (https://bitwarden.com/blog/kubernetes-integration-bitwarden-secrets-manager/)
 - Bitwarden integration for Microsoft Sentinel SIEM (https://bitwarden.com/resources/monitor-bitwarden-events-using-microsoft-sentinel/)
